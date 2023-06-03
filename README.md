@@ -35,7 +35,7 @@ The mobile application can be developed using the Flutter framework, allowing fo
 
 WIREFRAME For Application:
 
-[https://www.figma.com/file/T59FQ7yUEDRkDcILS6wseb/Scheduler?type=design&node-id=0-1](https://www.figma.com/file/T59FQ7yUEDRkDcILS6wseb/Scheduler?type=design&node-id=0-1)
+[Figma](https://www.figma.com/file/T59FQ7yUEDRkDcILS6wseb/Scheduler?type=design&node-id=0-1)
 
 ### Deliverables:
 
